@@ -7,7 +7,7 @@ Its important that both Ubuntu and Windows are the same type: legacy or UEFI (an
 To instal windows UEFI :
     1. Make a bootable USB with RUFUS, and make it type UEFI
     1. On the computer you are installing Windows on go to bios and do:
-        1. Boot->Launch CSM-> [Enabled]  (turn on the suport for legacy sysetems)
+        1. Boot->Launch CSM-> [Enabled]  (turn on the suport for legacy systems)
         1. Advanced->USB configuration->XHCI Pre-Boot Mode -> [Disabled] (Disable USB 3.0 in bios, because this usually works only with USB 2.0)
     1. Install Windows UEFI with pressing ESC on boot and choosing UEFI type
     1. (If during instalation you get an error about GPT formatting) Follow [THIS](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/windows-setup-installing-using-the-mbr-or-gpt-partition-style) tutorial
