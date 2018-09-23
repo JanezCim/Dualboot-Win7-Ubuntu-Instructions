@@ -1,4 +1,4 @@
-#Instructions for setuping DualBoot (Specificaly for ASUS ZENBOOK  - dualboot windows 7 with ubuntu)
+# Instructions for setuping DualBoot (Specificaly for ASUS ZENBOOK  - dualboot windows 7 with ubuntu)
 
 With this setup you can delete all the files on disk. Backup everything important!
 
